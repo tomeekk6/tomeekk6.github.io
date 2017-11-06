@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prebook.co" resolutions="1x" timestamp="1509971315593">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prebook.co" resolutions="1x" timestamp="1509980281950">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="158692063" ref="index"/>
-    <file name="nomq_index.css" crc="3832585273" ref="index"/>
+    <file name="index.css" crc="154945666" ref="index"/>
+    <file name="nomq_index.css" crc="212013516" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -42,7 +42,6 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="lichtblickpng-u11714.png" crc="378919223" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -152,9 +151,9 @@
     </file>
     <file name="u5799-46.png" crc="472171027" ref="index"/>
     <file name="lichtblickpng schwarz-u8861-fr2.png" crc="4157188196" ref="index"/>
-    <file name="menu-u3960.png" crc="266041423" ref="index"/>
-    <file name="menu-u3960-r.png" crc="266041423" ref="index"/>
-    <file name="x-u3960-a.png" crc="171009935" ref="index"/>
+    <file name="menu-u3960.png" crc="442822776" ref="index"/>
+    <file name="menu-u3960-r.png" crc="442822776" ref="index"/>
+    <file name="x-u3960-a.png" crc="314622532" ref="index"/>
     <file name="lichtblickpng-u11714300x99.png" crc="4218421003" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -171,6 +170,9 @@
     <file name="menu-u39603.png" crc="266041423" ref="index"/>
     <file name="menu-u3960-r3.png" crc="266041423" ref="index"/>
     <file name="x-u3960-a3.png" crc="171009935" ref="index"/>
+    <file name="lichtblickpng-u11714754x248.png" crc="4025282931" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3809025928" seo="true" mt="1509971262495" redirect="true"/>
+  <file name="index.html" crc="111053774" seo="true" mt="1509980229541" redirect="true"/>
 </manifest>
