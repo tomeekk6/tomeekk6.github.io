@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prebook.co" resolutions="1x" timestamp="1511258914385">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lichtblickpflege.de" resolutions="1x" timestamp="1511259096797">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="501906156" ref="index"/>
@@ -189,5 +189,5 @@
     <file name="menu-u3960-r4.png" crc="4189258820" ref="index"/>
     <file name="x-u3960-a4.png" crc="4199406428" ref="index"/>
   </folder>
-  <file name="index.html" crc="4140763446" seo="true" mt="1511258303921" redirect="true"/>
+  <file name="index.html" crc="292154138" seo="true" mt="1511258303921" redirect="true"/>
 </manifest>
