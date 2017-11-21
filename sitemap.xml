@@ -54,4 +54,34 @@
       <image:loc>http://lichtblickpflege.de/images/lichtblickpng-u11714244x81.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://lichtblickpflege.de/impressum.html</loc>
+    <lastmod>2017-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lichtblickpflege.de/images/lichtblickpng.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lichtblickpflege.de/images/lichtblickpng501x192.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lichtblickpflege.de/images/lichtblickpng320x123.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://lichtblickpflege.de/onlinefragebogen.html</loc>
+    <lastmod>2017-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lichtblickpflege.de/images/lichtblickpng.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lichtblickpflege.de/images/lichtblickpng640x245.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lichtblickpflege.de/images/lichtblickpng450x173.png</image:loc>
+    </image:image>
+  </url>
 </urlset>
