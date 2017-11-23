@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lichtblickpflege.de" resolutions="1x" timestamp="1511423196379">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lichtblickpflege.de" resolutions="1x" timestamp="1511443788489">
   <folder name="assets">
     <file name="fragebogen_bedarfsermittlung_-lichtblickpflege2.pdf" crc="8756706" seo="true" mt="1510067982000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4240631915" ref="index"/>
-    <file name="nomq_index.css" crc="236238969" ref="index"/>
+    <file name="index.css" crc="3933272928" ref="index"/>
+    <file name="nomq_index.css" crc="4230819406" ref="index"/>
     <file name="impressum.css" crc="3935338336" ref="impressum"/>
     <file name="nomq_impressum.css" crc="3823814662" ref="impressum"/>
     <file name="onlinefragebogen.css" crc="4112540650" ref="onlinefragebogen"/>
@@ -184,7 +184,6 @@
     <file name="menu-u39604.png" crc="4189258820" ref="index"/>
     <file name="menu-u3960-r4.png" crc="4189258820" ref="index"/>
     <file name="x-u3960-a4.png" crc="4199406428" ref="index"/>
-    <file name="home-favicon.ico" crc="4088142410" ref="index"/>
     <file name="lichtblickpng.png" crc="3759885476" seo="true" ref="impressum:onlinefragebogen">
       <caption webpage="onlinefragebogen" alt=""/>
       <caption webpage="onlinefragebogen" alt=""/>
@@ -257,8 +256,30 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="lichtblickpflege-favicon.ico" crc="4088142410" ref="index"/>
+    <file name="old-2742052_1920 (1).png" crc="4215516376" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="old-2742052_1920 (1)170x176.png" crc="389373763" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="old-2742052_1920 (1)144x149.png" crc="3833837847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="old-2742052_1920 (1)185x191.png" crc="4116822537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="old-2742052_1920 (1)147x152.png" crc="4176021579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="old-2742052_1920 (1)157x162.png" crc="3895098206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4224392011" seo="true" mt="1511423133524" redirect="true"/>
+  <file name="index.html" crc="397712206" seo="true" mt="1511443750110" redirect="true"/>
   <file name="impressum.html" crc="21099452" seo="true" mt="1511274358249" redirect="true"/>
   <file name="onlinefragebogen.html" crc="464913475" seo="true" mt="1511274840016" redirect="true"/>
 </manifest>
