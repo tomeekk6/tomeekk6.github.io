@@ -1,8 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lichtblickpflege.de" resolutions="1x" timestamp="1511277401224">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lichtblickpflege.de" resolutions="1x" timestamp="1511423196379">
+  <folder name="assets">
+    <file name="fragebogen_bedarfsermittlung_-lichtblickpflege2.pdf" crc="8756706" seo="true" mt="1510067982000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3948027071" ref="index"/>
-    <file name="nomq_index.css" crc="4232582933" ref="index"/>
+    <file name="index.css" crc="4240631915" ref="index"/>
+    <file name="nomq_index.css" crc="236238969" ref="index"/>
     <file name="impressum.css" crc="3935338336" ref="impressum"/>
     <file name="nomq_impressum.css" crc="3823814662" ref="impressum"/>
     <file name="onlinefragebogen.css" crc="4112540650" ref="onlinefragebogen"/>
@@ -33,12 +36,6 @@
   </folder>
   <folder name="images">
     <file name="header 1 neu.jpg" crc="72698069" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -252,8 +249,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="header 1 neu2.jpg" crc="182275860" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4156678364" seo="true" mt="1511277247785" redirect="true"/>
+  <file name="index.html" crc="4224392011" seo="true" mt="1511423133524" redirect="true"/>
   <file name="impressum.html" crc="21099452" seo="true" mt="1511274358249" redirect="true"/>
   <file name="onlinefragebogen.html" crc="464913475" seo="true" mt="1511274840016" redirect="true"/>
 </manifest>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://lichtblickpflege.de/index.html</loc>
-    <lastmod>2017-11-21</lastmod>
+    <lastmod>2017-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -53,6 +53,9 @@
     <image:image>
       <image:loc>http://lichtblickpflege.de/images/lichtblickpng-u11714244x81.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://lichtblickpflege.de/images/header%201%20neu2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://lichtblickpflege.de/impressum.html</loc>
@@ -83,5 +86,11 @@
     <image:image>
       <image:loc>http://lichtblickpflege.de/images/lichtblickpng450x173.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://lichtblickpflege.de/assets/fragebogen_bedarfsermittlung_-lichtblickpflege2.pdf</loc>
+    <lastmod>2017-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
