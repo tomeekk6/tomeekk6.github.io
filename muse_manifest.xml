@@ -1,8 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="entruempelung.com" resolutions="1x" timestamp="1511804571455">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="t-s-design.de" resolutions="1x" timestamp="1513681017550">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4073460590" ref="index"/>
-    <file name="iefonts_index.css" crc="507795400" ref="index"/>
+    <file name="index.css" crc="475623678" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -11,43 +10,18 @@
     <file name="museconfig.js" crc="4153641093" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="form_check.php" crc="147359589" ref="index"/>
-    <file name="form_throttle.php" crc="93986428" ref="index"/>
-    <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u683.php" crc="239268284" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="boxes-2624231.jpg" crc="4091144825" ref="index">
+    <file name="glenn-carstens-peters-282287.jpg" crc="525916048" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="old-radio-1255210.jpg" crc="4222437812" ref="index">
+    <file name="04.png" crc="128698584" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u319-14.png" crc="3817573701" ref="index"/>
-    <file name="u314-14.png" crc="3817573701" ref="index"/>
-    <file name="u316-14.png" crc="3817573701" ref="index"/>
-    <file name="u310-14.png" crc="3817573701" ref="index"/>
-    <file name="u402-22.png" crc="485593599" ref="index"/>
-    <file name="u406-22.png" crc="485593599" ref="index"/>
-    <file name="u413-22.png" crc="485593599" ref="index"/>
-    <file name="u417-22.png" crc="485593599" ref="index"/>
-    <file name="thumbs-up-1006172.png" crc="318290402" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="110.jpg" crc="3970770741" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="manzur.png" crc="3837231934" ref="index">
+    <file name="profile_pic.png" crc="3995980742" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="341566565" seo="true" mt="1511804554221" redirect="true"/>
+  <file name="index.html" crc="173410677" seo="true" mt="1513680889944" redirect="true"/>
 </manifest>
