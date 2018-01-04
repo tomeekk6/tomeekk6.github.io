@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://t-s-design.de/index.html</loc>
-    <lastmod>2017-12-19</lastmod>
+    <lastmod>2018-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://t-s-design.de/images/profile_pic.png</image:loc>
+      <image:loc>http://t-s-design.de/images/element%201@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://t-s-design.de/images/element%202@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://t-s-design.de/images/element%203@4x.png</image:loc>
     </image:image>
   </url>
 </urlset>
