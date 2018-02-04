@@ -51,7 +51,7 @@ $form = array(
 			)
 		),
 		'custom_U696' => array(
-			'order' => 5,
+			'order' => 4,
 			'type' => 'string',
 			'label' => 'Nachricht',
 			'required' => false,
@@ -65,24 +65,6 @@ $form = array(
 			'required' => true,
 			'errors' => array(
 				'required' => 'Field \'Telefon\' is required.'
-			)
-		),
-		'custom_U1622' => array(
-			'order' => 4,
-			'type' => 'checkboxgroup',
-			'label' => 'Was können wir für Sie tun?',
-			'required' => true,
-			'optionItems' => array(
-				'Entrümpelung',
-				'Umzug',
-				'Transport',
-				'Entsorgung von Elektroschrott',
-				'Wohnungsrenovierung',
-				'Sonstiges (bitte genaueres im Nachrichtenfeld eingeben)'
-			),
-			'errors' => array(
-				'required' => 'Field \'Was können wir für Sie tun?\' is required.',
-				'format' => 'Field \'Was können wir für Sie tun?\' has an invalid value.'
 			)
 		)
 	)
